@@ -1,5 +1,6 @@
 use rgrep::Config;
 use rgrep::run;
+
 use std::env;
 
 use std::process;
